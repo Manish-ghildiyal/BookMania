@@ -1,1 +1,1 @@
-This project is based on selling and renting books and much more
+This project is based on Web Development where you can sell and rent books and much more.
